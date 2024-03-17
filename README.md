@@ -1,5 +1,5 @@
 # Python for Data Science
-## Author : Cognitive Class AI
+## Sumber : [https://github.com/dheepss123/EcoDo)
 --------------------------------
 
 In this project, harness the power of classification models to provide sustainable recommendations in managing waste. after developing a model capable of understanding and classifying images based on waste categories, assisting you in efficient waste management.
